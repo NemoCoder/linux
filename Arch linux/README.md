@@ -1,2 +1,5 @@
-#  pacman -Syyu ： 更新系统
-#  pacman -S man ： 安装命令man
+#  The first thing after Installing System (Arch Linux)
+- pacman -Syyu ： update system
+- pacman -S xxx ： install xxx
+  - man
+  - xxx
